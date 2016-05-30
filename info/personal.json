@@ -1,0 +1,38 @@
+{
+	"name": "Luís Fernando Saquetim Vendrame",
+	"e-mails": [
+		"lvendrame@gmail.com"
+	],
+	"birthdate": "1983-11-05T02:00:00.000Z",
+	"address": {
+		"street": {
+			"pt-BR": "Rua João Almendra",
+			"en-US": "João Almendra Street"
+		},
+		"number": 130,
+		"district": "São José",
+		"city": "São Caetano do Sul",
+		"state": "SP",
+		"country": {
+			"pt-BR": "Brasil",
+			"en-US": "Brazil"
+		},
+		"zipcode": "09581-320",
+		"coords":{
+			"latitude": "-23.6318397",
+			"longitude": "-46.5817071"
+		}
+	},
+	"telephones": [
+		{
+			"type": "celular",
+			"number": "+55 (11) 98612-0039"
+		}
+	],
+	"socials": {
+		"facebook": "http://www.facebook.com/lvendrame",
+		"twitter": "http://twitter.com/lvendrame_br",
+		"linked-in": "http://www.linkedin.com/in/lvendrame",
+		"github": "http://github.com/lvendrame"
+	}
+}
